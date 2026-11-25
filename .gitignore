@@ -1,0 +1,9 @@
+build/
+*.o
+*.so
+*.bin
+*.zst
+*.mp4
+__pycache__/
+*.pyc
+.DS_Store
